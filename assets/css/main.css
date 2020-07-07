@@ -3984,8 +3984,8 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/production\ ID_4443250.mp4");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/production\ ID_4443250.mp4");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
 		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
 		background-position: center center;
@@ -4002,10 +4002,8 @@ input, select, textarea {
 	float: left;
 	width: 25%;
 	margin-bottom: 20px;
-	padding: 0 8px;
-	position: relative;
-	margin-right: 75px;
-	margin-left: 80px;
+	padding: 0 20px;
+	object-position: auto;
   }
   
   /* Display the columns below each other instead of side by side on small screens */
